@@ -1,4 +1,3 @@
-Here's a README file for the code that removes the background from an image and adds a random-colored background using `rembg`, `easygui`, and `PIL`:
 
 ---
 
